@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/victoryw/progressive-jpeg",
   "author": "wang yan",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "image-min": "^0.3.2"
+  }
 }
