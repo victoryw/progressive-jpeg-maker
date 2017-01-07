@@ -5,7 +5,12 @@
   "repository": "https://github.com/victoryw/progressive-jpeg",
   "author": "wang yan",
   "license": "MIT",
+  "dependencies": {
+    "imagemin": "^5.2.2",
+    "imagemin-jpegtran": "^5.0.2"
+  },
   "devDependencies": {
-    "image-min": "^0.3.2"
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-mozjpeg": "^6.0.0"
   }
 }
